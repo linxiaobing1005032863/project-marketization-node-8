@@ -5885,7 +5885,7 @@ header .art-right .selected-down:after {
 
 }
 .multiple-select .select-text{
-  width: 60%;
+  width: 54%;
   line-height: 40px;
   height: 40px;
   padding-left: 15px;
@@ -5905,7 +5905,7 @@ header .art-right .selected-down:after {
   z-index:10;
 }
 .multiple-select .mymultiselect .btn{
-  width:100px;
+ width:41%;
   position:absolute;
   right:0;
   height:40px;
